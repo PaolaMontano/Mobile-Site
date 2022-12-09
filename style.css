@@ -1,0 +1,58 @@
+body{
+background-color: #C6DBD5;
+
+}
+nav li{
+    padding: 10px;
+    color: #dc6e6e;
+    padding-right: 60px;
+    display: inline-block;
+    font-size: large;
+    flex-direction: column;
+}
+nav{
+    padding: 10px;
+    text-align: right;
+    font-family: 'Berlin Sans FB Demi';
+    background-color:#8790B8;
+    font-size: 19px;
+}
+
+nav a{
+    color: #ffffff;
+    text-decoration: none;
+}
+p{
+    padding: 30px;
+    color: rgb(209, 73, 118);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 26px;
+    border-radius: 600px;
+
+
+}
+label,input{
+    width: 100%;
+    display: block;
+    align-items: center;
+}
+input{
+    border-radius: 10%;
+}
+h2{
+    padding-top: 10px;
+    padding-left: 777px; 
+    font-size: x-large;
+    font-family: 'Berlin Sans FB Demi';
+    color: rgb(209, 73, 118);
+    
+  
+}
+form{
+    display: block;
+    font-family: 'Berlin Sans FB Demi';
+    padding: 5em;
+    width: 600px;
+    border-radius: 10px;
+    padding-left: 500px;
+}
